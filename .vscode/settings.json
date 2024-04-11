@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "string": "c",
+        "stdexcept": "cpp",
+        "fstream": "cpp",
+        "chrono": "cpp"
+    }
+}
